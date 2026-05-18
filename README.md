@@ -12,4 +12,5 @@
 Download the latest release from [Github Releases](https://github.com/DaniTheSillyFem/Sora-A04/releases/latest)
 
 ~~Flash it by using Odin and placing the SoraKSU.tar in the AP slot.~~ (scrapped method, didnt make it into 1.0.0)
+
 Flash by using Kernel Flasher on an already rooted A04 or in recovery if you have that (TWRP/OFox recommended, or PBRP if you're into that...?)
